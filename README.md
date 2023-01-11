@@ -6,14 +6,22 @@ This funcsion is based on Ido Weinstein's test code.
 In order to use this function:
 1. place both .java files in your src folder.
 2. make sure to implement all the requiered functions in your **FibonacciHeap** Class:
-  getFirst() return this.heapRoot
+
+&emsp; &emsp; getFirst() return this.heapRoot
+  
 3. make sure to implement all the requiered functions in your **HeapNode** Class:
-  getRank()
-  getMarked()
-  getNext()
-  getChild()
-  getParent()
-  getPrev()
+
+&emsp; &emsp;  getRank()
+  
+&emsp; &emsp;  getMarked(): return true if the node is marked
+  
+&emsp; &emsp;  getNext()
+  
+&emsp; &emsp;  getChild()
+  
+&emsp; &emsp;  getParent()
+  
+&emsp; &emsp;  getPrev()
   
 run FibonacciPrintTest and see the results. Modiffy the code in this file by your needs.
 
