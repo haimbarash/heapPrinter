@@ -18,5 +18,9 @@ in order to use this function:
 run FibonacciPrintTest and see the results. modiffy the code in this file by your needs.
 
 Good luck!
+output examples:
 
 ![image](https://user-images.githubusercontent.com/112472485/211810711-5570cc85-93cb-430e-8f64-94f30a6a7303.png)
+
+![image](https://user-images.githubusercontent.com/112472485/211811671-99df631b-bf20-4aa1-8a6f-60181812f633.png)
+
